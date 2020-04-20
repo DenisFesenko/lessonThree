@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 -------
 File C1
 -------
+=======
+Create some text to happen conflict
+>>>>>>> 3d9cf00fc6f19432b363d557557483fd45dbce40
